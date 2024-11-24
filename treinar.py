@@ -98,7 +98,7 @@ plt.imshow(img)
 plt.axis("on")
 plt.show()
 
-# Pega imagem, escala prediz e pega o valor com maior porcentagem e responde no console o tipo de mangA
+# Pega imagem, escala prediz e pega o valor com maior porcentagem e responde no console o tipo de manga
 img = img_to_array(img)
 img = np.expand_dims(img, axis=0)/255.0
 probabilidades = model.predict(img)
