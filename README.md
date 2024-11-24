@@ -1,10 +1,10 @@
 # Neste repositório acrescentei:
 * videos que testei frame a frame
-* conversor mp4 para jpg
-* conversor heic para png
-* dataset teste, treino e validação
-* treinador de modelo
-* validador em tempo real
+* Conversor mp4 para jpg
+* Conversor heic para png
+* Dataset teste, treino e validação
+* Treinador de modelo
+* Validador em tempo real
 
 
 ### Aplicações
