@@ -1,4 +1,4 @@
-# Neste repositório possui:
+# Neste repositório acrescentei:
 * videos que testei frame a frame
 * conversor mp4 para jpg
 * conversor heic para png
